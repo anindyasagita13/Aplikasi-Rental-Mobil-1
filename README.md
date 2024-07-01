@@ -1,4 +1,4 @@
-# Laravel 10 - Rental Mobil
+# - Rental Mobil
 
 ## Donwload
 
